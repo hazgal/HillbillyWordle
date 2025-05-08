@@ -19,3 +19,4 @@ To crank ‘er up:
      java WordleGame
 
 And hold onto yer britches — it’s fixin’ to get rowdy!
+![image](https://github.com/hazgal/HillbillyWordle/blob/main/poster.jpg))
